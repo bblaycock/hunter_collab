@@ -1,0 +1,19 @@
+# Tasks to work upon
+- Setup github account
+- Working session to get Hunter access to repositories
+  - Install Visual Studio Code
+  - Install Python extensions
+  - Execute git clone of repository
+  - Add a file to the repository locally and push to github
+  - I will pull it down, update and push
+  - Execute a git pull to see modifications
+- Working session to build and Ubuntu server in AWS
+  - Login to ASW and build an EC2 instance of Ubuntu
+  - Test access using ssh and give overview of access
+  - Show that it already has pythong3 installed in the instance
+  - Start a python3 interactive session and do a hello type run as well as variables and print
+  - Establish github connectivity and pull the repostiory we created in first session
+  - Talk about variables and variable types in Python
+    - Create a python file that has a dictionary
+    - Iterate the dictionary and print out the contents
+    - Show how to type the dictiony to show the top of
