@@ -8,3 +8,18 @@ print("The value of x was:")
 print(x)
 #print the type of x
 print(type(x))
+y="print"
+print(y)
+print(type(y))
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+print(thisdict) 
+print(thisdict["brand"])
+print(type(thisdict))
+thislist = ["apple", "banana", "cherry"]
+print(thislist)
+print(thislist[0])
+print(type(thislist))
