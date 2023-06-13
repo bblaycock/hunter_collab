@@ -1,12 +1,12 @@
 # Tasks to work upon
-- Setup github account
+- Setup github account (Dones)
 - Working session to get Hunter access to repositories
-  - Install Visual Studio Code
+  - Install Visual Studio Code (Done)
   - Install Python extensions
-  - Execute git clone of repository
-  - Add a file to the repository locally and push to github
-  - I will pull it down, update and push
-  - Execute a git pull to see modifications
+  - Execute git clone of repository (Done)
+  - Add a file to the repository locally and push to github (Done)
+  - I will pull it down, update and push (Done)
+  - Execute a git pull to see modifications (Done)
 - Working session to build and Ubuntu server in AWS
   - Login to ASW and build an EC2 instance of Ubuntu
   - Test access using ssh and give overview of access
