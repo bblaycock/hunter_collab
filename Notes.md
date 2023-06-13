@@ -2,7 +2,7 @@
 - Setup github account (Dones)
 - Working session to get Hunter access to repositories
   - Install Visual Studio Code (Done)
-  - Install Python extensions
+  - Install Python extensions (Dones)
   - Execute git clone of repository (Done)
   - Add a file to the repository locally and push to github (Done)
   - I will pull it down, update and push (Done)
@@ -10,7 +10,7 @@
 - Working session to build and Ubuntu server in AWS
   - Login to ASW and build an EC2 instance of Ubuntu
   - Test access using ssh and give overview of access
-  - Show that it already has pythong3 installed in the instance
+  - Show that it already has python3 installed in the instance
   - Start a python3 interactive session and do a hello type run as well as variables and print
   - Establish github connectivity and pull the repostiory we created in first session
   - Talk about variables and variable types in Python
