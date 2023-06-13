@@ -6,3 +6,5 @@ x=100
 print("The value of x was:")
 ##this will print the acutal value of the variable x to the screen
 print(x)
+#print the type of x
+print(type(x))
