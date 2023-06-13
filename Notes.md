@@ -16,4 +16,4 @@
   - Talk about variables and variable types in Python
     - Create a python file that has a dictionary
     - Iterate the dictionary and print out the contents
-    - Show how to type the dictiony to show the top of
+    - Show how to type the dictionary to show the top of
