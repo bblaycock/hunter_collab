@@ -23,3 +23,8 @@ thislist = ["apple", "banana", "cherry"]
 print(thislist)
 print(thislist[0])
 print(type(thislist))
+
+for element in thislist:
+    print(element)
+
+print(len(thislist))
